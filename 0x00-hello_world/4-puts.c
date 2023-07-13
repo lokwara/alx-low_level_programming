@@ -1,13 +1,10 @@
 #include <stdio.h>
 /**
- * main -  This is main
- * return - This is return
- **/
+* main -  This is main
+* return - This is return
+**/
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
-	return (0);
-	/**
-	*return - this is return
-	**/ 
+	return (0); 
 }
