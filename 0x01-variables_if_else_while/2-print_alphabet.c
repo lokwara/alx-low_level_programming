@@ -6,7 +6,12 @@
  */
 int main(void)
 {
-	putchar (65);
-	putchar ('\n');
+	char alp[26] = "abcdefghijklmnopqrstuvwxyz";
+	int i;
+	for (i = 0; i < 26; i++)
+	{
+		putchar(alp[i]);
+	}
+	putchar('\n');
 	return (0);
 }
