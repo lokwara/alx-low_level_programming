@@ -3,11 +3,11 @@
  * _strlen_recursion - print string in reverse
  * @s : character
  *
- * Return : Nothing valid
+ * Return: Nothing valid
  */
 int _strlen_recursion(char *s)
 {
-	if(*s == '\0')
+	if (*s == '\0')
 	{
 		return (0);
 	}
