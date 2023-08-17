@@ -2,7 +2,7 @@
 /**
  * array_iterator - executes a function given as a parameter
  * @array: blank
- * @size_t: blank
+ * @size: blank
  * @action: blank
  *
  * Return: void
